@@ -47,11 +47,15 @@
 
 ###
 
-<img data-importer="image" align="right" height="300" src="https://images.hitpaw.com/topics/gif-tips/duck-transparent-gif.gif"  />
+<h2 data-importer="text" align="center">Hi, My name is Arthur, I'm 16 years old and I live in Santo André, São Paulo. I'm a System Development Student at the Sophomore year</h2>
 
 ###
 
-<h2 data-importer="text" align="left">Hi, My name is Arthur, I'm 16 years old and I live in Santo André, São Paulo. I'm a System Development Student at the Sophomore year</h2>
+<br clear="both">
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="300" src="https://images.hitpaw.com/topics/gif-tips/duck-transparent-gif.gif"  />
+</div>
 
 ###
 
